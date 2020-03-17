@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aighooyie.roboengine.de/sitemap.xml
